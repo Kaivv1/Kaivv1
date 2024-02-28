@@ -8,5 +8,5 @@
 
 💡 Open to collaboration and always eager to learn. Let's code something awesome together!
 
-[GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMzemxxeXk1ZXIwYjgyZW9xbzdlbmlwNWdoaHNtbGd0N3Z3cXMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m8jPxnABaL6dhnceRP/giphy.gif)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMzemxxeXk1ZXIwYjgyZW9xbzdlbmlwNWdoaHNtbGd0N3Z3cXMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m8jPxnABaL6dhnceRP/giphy.gif)
 
