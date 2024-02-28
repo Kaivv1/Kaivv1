@@ -8,4 +8,5 @@
 
 💡 Open to collaboration and always eager to learn. Let's code something awesome together!
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/m8jPxnABaL6dhnceRP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/m8jPxnABaL6dhnceRP">via GIPHY</a></p>
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXMzemxxeXk1ZXIwYjgyZW9xbzdlbmlwNWdoaHNtbGd0N3Z3cXMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m8jPxnABaL6dhnceRP/giphy.gif)
+
