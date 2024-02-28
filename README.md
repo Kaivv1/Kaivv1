@@ -8,5 +8,5 @@
 
 💡 Open to collaboration and always eager to learn. Let's code something awesome together!
 
-![Animated GIF](https://giphy.com/gifs/m8jPxnABaL6dhnceRP.gif)
+
 
