@@ -1,6 +1,6 @@
 # Hi there, I'm Kaivv1 (Kaloyan Vulchev) 👋
 
-**Web Developer | Learning Full-Stack Developer**
+**`Web Developer | Learning Full-Stack Developer`**
 
 🚀 Self-learner, working on projects. Passionate about creating full-stack websites and apps.
 
