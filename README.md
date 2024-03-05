@@ -5,8 +5,6 @@
 
 🌱 Currently focused on honing my skills and building a solid foundation in web development.
 
-💡 Open to collaboration and always eager to learn.
-
 ---
 
 ### 🧰 Languages and Tools
