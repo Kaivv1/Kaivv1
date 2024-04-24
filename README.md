@@ -1,8 +1,6 @@
 # Hi there 👋 welcome to my Github! My name is Kaloyan 🙋🏻‍♂️
 
-🚀 Self-learner, working on projects. Passionate about creating full-stack websites and apps.
-
-🌱 Currently focused on honing my skills and building a solid foundation in web development.
+🚀 Passionate about creating full-stack websites and apps.
 
 ---
 
